@@ -3,6 +3,6 @@
 
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://img.icons8.com/ios_filled/12x/javascript-logo.png" width="30px"></code>
+<code><img src="https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png" width="30px"></code>
 <code><img src="https://e7.pngegg.com/pngimages/18/497/png-clipart-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue.png" width="30px"></code>
 
