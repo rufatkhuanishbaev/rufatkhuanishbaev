@@ -1,1 +1,1 @@
-Hi i'm Rufat Khuanishbaev ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+Hi i'm Rufat Khuanishbaev ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="10px">
